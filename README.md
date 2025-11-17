@@ -1,4 +1,4 @@
 # linux-file-manager
-Linux based file manager
+Browser-based Linux file manager
 
-Work in progress
+For the Linux file system
